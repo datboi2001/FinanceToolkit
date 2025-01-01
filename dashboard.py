@@ -175,4 +175,4 @@ if not st.session_state["invalid_api_key"]:
     )
 
 
-socials_model.create_socials_sidebar()
+# socials_model.create_socials_sidebar()
